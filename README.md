@@ -7,4 +7,4 @@ https://hamzaconnection.github.io/CV-Resume-DK/
 
 
 For English version go here: 
-https://hamzaconnection.github.io/CV-Resume-EN/  (in progress)
+https://hamzaconnection.github.io/
