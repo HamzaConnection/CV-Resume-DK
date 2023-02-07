@@ -1,10 +1,6 @@
 # Resume
 
-Denne side bruger jeg til at søge jobs. Den er lavet ved brug af bootstrap da jeg lige ville lærer det.
+Dette er en hurtigt opsat side jeg bruger til jobsøgening. Den er lavet i ren html, css og javascript da man kan hoste gratis via github.
 
 Du kan se siden her: 
 https://hamzaconnection.github.io/CV-Resume-DK/ 
-
-
-For English version go here: 
-https://hamzaconnection.github.io/
